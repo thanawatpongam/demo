@@ -13,4 +13,10 @@ step to run
 
 // i have config only iOS.
 
-enjoy.
+use 2 libraries(3rd party) for this demo
+1. react-navigation
+  - use it for navigate between screen.
+2. react-native-ui-kitten
+  - use it for a beautiful display.
+
+i spend around 10 hours to make it.
