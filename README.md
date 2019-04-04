@@ -1,5 +1,9 @@
 # demo Restaurant
 
+environment
+1. nodejs
+2. react-native-cli
+
 Make sure you have installed react native cli
 [npm install -g react-native-cli]
 
