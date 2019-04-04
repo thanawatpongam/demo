@@ -1,7 +1,7 @@
 # demo Restaurant
 
 environment
-1. nodejs
+1. nodejs  https://nodejs.org
 2. react-native-cli
 
 Make sure you have installed react native cli
